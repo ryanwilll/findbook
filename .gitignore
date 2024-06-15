@@ -1,0 +1,5 @@
+node_modules/
+
+# Ignorar node_modules nas subpastas backend e frontend
+backend/node_modules/
+frontend/node_modules/
